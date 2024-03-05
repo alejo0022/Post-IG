@@ -1,0 +1,53 @@
+.cajaG{
+    background-color: white;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+body{
+    background-color: black;
+}
+.titulo{
+    display: flex;
+}
+.imag{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.name{
+    align-content: center;
+    font-family: "Madimi One", sans-serif;
+}
+#puntos{
+    margin-left: 75%;
+    align-self: center;
+    font-size: 2em;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 20px;
+    margin-top: 15px;
+    font-size: 2em;
+    
+}
+.comment{
+    padding-left: 10px;
+}
+.plane{
+    padding-left: 10px;
+}
+.bookmark{
+    padding-left: 70%;
+}
+.parrafo{
+    font-family: "Ojuju", sans-serif;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 15px;
+}
+
+
+
+
+
